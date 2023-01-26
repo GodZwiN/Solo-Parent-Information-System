@@ -1,0 +1,17 @@
+.bondPaper {
+	width: 8.5in;
+	height: 7in;
+	background-image: none !important;
+}
+canvas {
+	max-width: 7in;
+}
+.reportBody {
+	min-height: 9in;
+}
+table,
+th,
+td {
+	border: 1px solid black;
+	border-collapse: collapse;
+}
